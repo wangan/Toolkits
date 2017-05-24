@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Toolkits</id>
+    <version>0.1.1</version>
+    <title>Toolkits</title>
+    <authors>wangan</authors>
+    <owners>wangan</owners>
+    <projectUrl>https://github.com/wangan/Toolkits</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Usefull class and functions</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Toolkits</tags>
+  </metadata>
+</package>
